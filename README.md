@@ -65,7 +65,7 @@ cd school-vaccination-portal
 ### 2. Start Backend
 
 ```bash
-cd server
+cd backend
 npm install
 npm run start
 ```
@@ -73,7 +73,7 @@ npm run start
 ### 3. Start Frontend
 
 ```bash
-cd client
+cd frontend/school-vaccination-portal
 npm install
 npm run dev
 ```
