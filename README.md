@@ -58,7 +58,7 @@ A full-stack web application designed to help school coordinators manage and tra
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/school-vaccination-portal.git
+git clone https://github.com/Dimple-AA/school-vaccination-portal.git
 cd school-vaccination-portal
 ```
 
@@ -67,7 +67,7 @@ cd school-vaccination-portal
 ```bash
 cd server
 npm install
-npm run dev
+npm run start
 ```
 
 ### 3. Start Frontend
@@ -87,4 +87,4 @@ npm run dev
 
 ## Author
 
-Developed by _[Your Name]_ for FSAD SE ZG503 Assignment – 2025.
+Developed by Dimple A A for FSAD SE ZG503 Assignment – 2025.
